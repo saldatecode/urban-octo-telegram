@@ -1,8 +1,8 @@
-#Urban Octo Telegram
+# Urban Octo Telegram
 
-##This site has been refactored. 
+## This site has been refactored. 
 
-*Images have been giving alt text
+* Images have been giving alt text
 
 * some divs replaced with sections
 
